@@ -23,7 +23,7 @@ export const projects = [
     title: 'Generasi Terburuk Chat',
     description:
       'This is a code repository group chat genarasi terburuk',
-    image: '/images/6.jpg',
+    image: '/images/8.jpg',
     tags: ['React Js', 'Javascript', 'Chat Engine','Node JS'],
     source: 'https://generasi-terburuk.netlify.app/',
     visit: 'https://generasi-terburuk.netlify.app/',
@@ -33,7 +33,7 @@ export const projects = [
     title: 'Bucek-ltd Company Profile',
     description:
       'This is a code repository Company Profile for Bucek-ltd',
-    image: '/images/5.jpg',
+    image: '/images/7.jpg',
     tags: ['Next Js', 'Javascript','Node JS'],
     source: 'https://bucek-ltd-dimasrifalta.vercel.app/',
     visit: 'https://bucek-ltd-dimasrifalta.vercel.app/',

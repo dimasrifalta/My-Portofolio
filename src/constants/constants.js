@@ -20,6 +20,26 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Generasi Terburuk Chat',
+    description:
+      'This is a code repository group chat genarasi terburuk',
+    image: '/images/6.jpg',
+    tags: ['React Js', 'Javascript', 'Chat Engine'],
+    source: 'https://generasi-terburuk.netlify.app/',
+    visit: 'https://generasi-terburuk.netlify.app/',
+    id: 3,
+  },
+  {
+    title: 'Bucek-ltd Company Profile',
+    description:
+      'This is a code repository Company Profile for Bucek-ltd',
+    image: '/images/5.jpg',
+    tags: ['Next Js', 'Javascript'],
+    source: 'https://bucek-ltd-dimasrifalta.vercel.app/',
+    visit: 'https://bucek-ltd-dimasrifalta.vercel.app/',
+    id: 3,
+  },
+  {
     title: 'Bucek Travel',
     description:
       'This is a code repository to help local tourism on the island of Sumbawa, in promoting the beauty of the island of Sumbawa.',
@@ -39,6 +59,9 @@ export const projects = [
     visit: 'https://google.com',
     id: 3,
   },
+
+
+
 ];
 
 export const TimeLineData = [

@@ -24,7 +24,7 @@ export const projects = [
     description:
       'This is a code repository group chat genarasi terburuk',
     image: '/images/6.jpg',
-    tags: ['React Js', 'Javascript', 'Chat Engine'],
+    tags: ['React Js', 'Javascript', 'Chat Engine','Node JS'],
     source: 'https://generasi-terburuk.netlify.app/',
     visit: 'https://generasi-terburuk.netlify.app/',
     id: 3,
@@ -34,7 +34,7 @@ export const projects = [
     description:
       'This is a code repository Company Profile for Bucek-ltd',
     image: '/images/5.jpg',
-    tags: ['Next Js', 'Javascript'],
+    tags: ['Next Js', 'Javascript','Node JS'],
     source: 'https://bucek-ltd-dimasrifalta.vercel.app/',
     visit: 'https://bucek-ltd-dimasrifalta.vercel.app/',
     id: 3,

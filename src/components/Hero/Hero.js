@@ -7,7 +7,14 @@ import {
 } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
+import fileSaver from 'file-saver';
 
+const saveFile = () => {
+  fileSaver.saveAs(
+    './images/resumedimas.pdf',
+    'resume_dimas.pdf'
+  );
+};
 const Hero = (props) => (
   <>
     <Section row nopadding>
@@ -19,7 +26,10 @@ const Hero = (props) => (
         <SectionText>
           Web Developer and Video Editor Based In Bandung, Indonesia.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+
+          <Button onClick={saveFile}>Download Portfolio</Button>
+          
+    
       </LeftSection>
     </Section>
   </>

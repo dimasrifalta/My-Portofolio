@@ -10,6 +10,16 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Bucek-realestate',
+    description:
+      "Using React, Stripe.js, An Application That Allows You To Introduce Property With Enough Benefits. ",
+    image: '/images/9.png',
+    tags: ['React', 'Stripe.js'],
+    source: 'https://bucek-realestate.vercel.app/',
+    visit: 'https://bucek-realestate.vercel.app/',
+    id: 0,
+  },
+  {
     title: 'Bucek Official Store',
     description:
       "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
@@ -27,7 +37,7 @@ export const projects = [
     tags: ['React Js', 'Javascript', 'Chat Engine','Node JS'],
     source: 'https://generasi-terburuk.netlify.app/',
     visit: 'https://generasi-terburuk.netlify.app/',
-    id: 3,
+    id: 2,
   },
   {
     title: 'Bucek-ltd Company Profile',
@@ -47,7 +57,7 @@ export const projects = [
     tags: ['PHP', 'Javascript', 'MYSQL'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 2,
+    id: 4,
   },
   {
     title: 'Apotek Sariasih',
@@ -57,7 +67,7 @@ export const projects = [
     tags: ['PHP', 'Javascript', 'MYSQL'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 3,
+    id: 5,
   },
 
 

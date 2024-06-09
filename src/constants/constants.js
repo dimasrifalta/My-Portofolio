@@ -10,6 +10,16 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Presentation AI',
+    description:
+      "Presentation AI is an innovative app that converts text-based learning materials into high-quality audio using Web Speech API and GPT-3. It supports auditory learning styles by providing clear, natural-sounding audio and comprehensive explanations of presentation content. This app enhances interactive and effective learning experiences, making education more dynamic and accessible.",
+    image: '/images/10.png',
+    tags: ['Supabase', 'Next.js', 'GPT 3.5 Turbo', 'TailwindCSS'],
+    source: 'https://presentation-io.vercel.app/',
+    visit: 'https://presentation-io.vercel.app/',
+    id: 0,
+  },
+  {
     title: 'Bucek-realestate',
     description:
       "Using React, Stripe.js, An Application That Allows You To Introduce Property With Enough Benefits. ",
@@ -22,7 +32,7 @@ export const projects = [
   {
     title: 'Bucek Official Store',
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "Shop the latest fashion trends and exclusive items at Bucek Official Store. Enjoy seamless shopping, secure payments, and fast delivery. Your go-to destination for quality and style.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://bucek-officcial.netlify.app/',

@@ -24,7 +24,7 @@ const Hero = (props) => (
           This My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          Web Developer and Video Editor Based In Bandung, Indonesia.
+        Software Engineer Based In Jakarta, Indonesia.
         </SectionText>
 
           <Button onClick={saveFile}>Download Portfolio</Button>

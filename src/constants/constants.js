@@ -1,15 +1,5 @@
 export const projects = [
-  {
-    title: 'MY Memories',
-    description:
-      "Using React, Node.js, Express & firebiase you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: '/images/1.png',
-    tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://dimasrifalta.github.io/my-moments/',
-    visit: 'https://dimasrifalta.github.io/my-moments/',
-    id: 0,
-  },
-  {
+    {
     title: 'Presentation AI',
     description:
       "Presentation AI is an innovative app that converts text-based learning materials into high-quality audio using Web Speech API and GPT-3. It supports auditory learning styles by providing clear, natural-sounding audio and comprehensive explanations of presentation content. This app enhances interactive and effective learning experiences, making education more dynamic and accessible.",
@@ -19,6 +9,17 @@ export const projects = [
     visit: 'https://presentation-io.vercel.app/',
     id: 0,
   },
+  {
+    title: 'MY Memories',
+    description:
+      "MY Memories is an app for uploading and sharing photos of daily life moments. Capture, store, and cherish your everyday experiences. Keep your memories alive and accessible anytime.",
+    image: '/images/1.png',
+    tags: ['Mongo', 'Express', 'React', 'Node'],
+    source: 'https://dimasrifalta.github.io/my-moments/',
+    visit: 'https://dimasrifalta.github.io/my-moments/',
+    id: 0,
+  },
+
   {
     title: 'Bucek-realestate',
     description:
